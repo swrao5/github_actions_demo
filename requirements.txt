@@ -1,3 +1,7 @@
 matplotlib
 seborn
 numpy
+pytest
+click
+pylint
+pytest-cov
