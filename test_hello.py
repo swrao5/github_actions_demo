@@ -1,4 +1,4 @@
-from hello import mult
+from hello import add
 
-def test_mult():
-  assert 6 == mult(2,3)
+def test_add():
+  assert 5 == mult(2,3)
