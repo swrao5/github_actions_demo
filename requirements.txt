@@ -1,5 +1,5 @@
 matplotlib
-seborn
+seaborn
 numpy
 pytest
 click
